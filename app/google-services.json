@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "188011265658",
+    "firebase_url": "https://hackathonfinal-14364.firebaseio.com",
+    "project_id": "hackathonfinal-14364",
+    "storage_bucket": "hackathonfinal-14364.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188011265658:android:58530655706aa2e7",
+        "android_client_info": {
+          "package_name": "com.example.maulikjagtap.googlemap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188011265658-rtj6g80jsu9klrde4p24lvbj6rjq9lb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maulikjagtap.googlemap",
+            "certificate_hash": "da08236ca355f854e76dccd0bb508475ed3eb7de"
+          }
+        },
+        {
+          "client_id": "188011265658-g7mrp8gdbg10u036ieig5aor27i6bi05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlBkEAHaVU1cVTwW79v5EcuId0rj5NdL0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188011265658-g7mrp8gdbg10u036ieig5aor27i6bi05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
